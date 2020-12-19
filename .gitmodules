@@ -1,0 +1,6 @@
+[submodule "hackatonbb"]
+	path = hackatonbb
+	url = https://github.com/zZENiro/hackatonbb
+[submodule "bot-vk"]
+	path = bot-vk
+	url = https://github.com/zZENiro/bot-vk
